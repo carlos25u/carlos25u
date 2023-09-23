@@ -1,6 +1,6 @@
 ### Hola👋 soy Carlos Alfredo Lopez Lopez
 # 💫 About Me:
-Soy un apasionado desarrollador .NET y un Ingeniero en Sistemas con una sólida formación técnica y una profunda pasión por la programación. Mi experiencia en el mundo de la informática abarca una amplia gama de proyectos, lo que me ha brindado la oportunidad de adquirir un conocimiento extenso y diversificado en el desarrollo de software y la gestión de sistemas.
+Soy un apasionado desarrollador .NET e Ingeniero en Sistemas con una sólida formación técnica y amplia experiencia en el desarrollo de aplicaciones empresariales y soluciones web utilizando tecnologías como C#, ASP.NET, MVC y Entity Framework, Windos Forms, WPF, HTMl, CSS, JavaScript y Angular. Mis conocimiento abarca la arquitectura de sistemas, la optimización de bases de datos y la creación de interfaces de usuario efectivas. Además, puedo considerar explorar áreas como la arquitectura de software, el desarrollo web o DevOps para seguir creciendo en mi carrera.
 
 
 ## 🌐 Socials:
